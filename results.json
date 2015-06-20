@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -12.964198,
+               "lng" : -39.26558
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "63077cf8eca8e2b8fb6ac2446d4cda7c3d19b30a",
+         "name" : "Gás Butano",
+         "place_id" : "ChIJ3TIuH3AqPgcRriGp7xbdKB4",
+         "reference" : "CmReAAAAkRyVDmHdbX3bnV2EiCtb7F8RPzSaNtC2QaiPDc1oXvhndgxovEPhetPXRx_ZkRh1IUK1vfP9uTBTquatWbZ9gfCyS1jTUzjsuJpGfFfCES24GMhiqlND0DoC7ssddQjyEhAJLKudpV9qvEZ82czTXqkvGhR6Q77-5qub7YGrzy63w4rJMHNCzg",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Rua Antônio Fraga, 208, Santo Antônio de Jesus"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -12.964225,
+               "lng" : -39.265648
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "087cf0134205e00cd996b2aa172298943a27f05f",
+         "name" : "J L S Dist de Gás e Bebidas",
+         "place_id" : "ChIJoWqLZkIqPgcR_T80lXfKDJI",
+         "reference" : "CnRwAAAA7KGR10eyEWzGh_Evvu9pbnQo6atScvyAVvr5h4XH91Svkx7JnojMeSIwr6T6teP7cp6Bf1ZlXaQZ-qMcjo7UdHnhUaOpVDFahggO_iD5H7srWpg3nPaApv5Uh-TuunKVIcQq29ry-2iDcsqY83XdERIQg_y2gUmrHl9WU8MV_z3aGxoU_lXLSukjQdb4-wtT0NjVsMWfVt0",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Rua Antônio Fraga, 208, Santo Antônio de Jesus"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -12.976389,
+               "lng" : -39.264821
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4bc72b51db40a6ffd52c084b48836afc1ed5075f",
+         "name" : "Revendedora Super Gás",
+         "place_id" : "ChIJmds3pitycwcR-uNyEyD3PQU",
+         "reference" : "CnRpAAAAsuFKqF3-uyxxHF6FZOGytwWqcd4c9ols8OIuEUDWtngy7gePXvsATO2mzz3gFcawGtzkK1C2J06lfvO5QUMeuYEycyv71yO4h-i1I6z3W_iLt9kdF9SWZ6pNVP9DnxWdczZ-aznBZRRiFRsf_KAYxBIQgpRn3hwIx7b_eLAP9YRylRoUhtsLgjPJnIHbN1qle3hcuiIIIp8",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Av. Esperança, 134, Santo Antônio de Jesus"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -12.97089,
+               "lng" : -39.248059
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bb08ed2f6111fb03120f592f15c0554e9bdc98da",
+         "name" : "Serv-Gás",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [],
+               "photo_reference" : "CqQBkQAAAAeEQhiFTshyFxDbkMdq8nGQgSbBLDpuO65L1rKbFxVujGHG3PovpGCSOL0kmiZZKa99wy62hPqX3yo3nB9uxuvc9O25gtrfrsD6G2PsBCkQAk5HhQs72r2blhdv6xxteK_5XtGlkvaUan8P_lJShsmUmAgXC57YrlZ45QFzuAsGU88PFb3muG2odsnUwE2qss5UiJ-RuqUmWkB-XmDT-cQSECGm-AoOqTKwS2wRRajetocaFMLHej80c6UQY6anabw6Pt2aKCIA",
+               "width" : 360
+            }
+         ],
+         "place_id" : "ChIJlRFuqzwqPgcRKCgMIIEsFF4",
+         "reference" : "CmRcAAAALYqveXSp1Z4w8wvuYgmoS_DPqifnunsznF9DIbF_Ex4tl9yM-9YjyJ_JAlkIyLdaYxyY9Ub66J61WBiAw289QGuQp5xlRZVt4Er-FvK_NUgc3vGmCyVVGf6qez9tadB1EhCLBi6QURX7e1uVG0FGAo0JGhTtwz93iu2bVbTe3U-Gyh6Y7yBvew",
+         "scope" : "GOOGLE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Avenida Providência, 20, Santo Antônio de Jesus"
+      }
+   ],
+   "status" : "OK"
+}
