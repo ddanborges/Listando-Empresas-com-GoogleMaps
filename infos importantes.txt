@@ -1,3 +1,1 @@
 Link da documentação da API:https://developers.google.com/places/webservice/search
-
-credencial AIzaSyASIIGxnu7VSLdFqjKGzuLN_BoMakRmHUM
